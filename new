@@ -1,0 +1,3 @@
+#!/bin/sh
+#this is bash file
+echo "new file"
